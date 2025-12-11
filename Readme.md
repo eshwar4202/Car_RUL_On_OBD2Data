@@ -338,5 +338,6 @@ WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `ke
 Saved: final_rul_model_eron93br.h5, best_rul_model_final.h5, fault_clf_eron93br.pkl, scaler_rul_eron93br.pkl
 <img width="994" height="374" alt="image" src="https://github.com/user-attachments/assets/eefe8c2a-93a0-4c0b-8dc6-ba38f92af92f" />
 
+<img width="837" height="374" alt="image" src="https://github.com/user-attachments/assets/d3ed3acb-226f-4839-bb12-1cbf40839a63" />
 
 
